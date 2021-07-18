@@ -1,4 +1,3 @@
 [build]
-base = "pwa-weather-app/"
-publish = "pwa-weather-app/build/"
+publish = "build/"
 command = "npm run build"
